@@ -11,7 +11,7 @@ Prerequisites
 Make sure you have Node.js installed.
 
 Installation Steps
-Clone the repository: git clone https://github.com/yourusername/todo-list.git
+Clone the repository: git clone https://github.com/VasuKrotha/todolistapp
 Navigate to the project directory: cd todo-list
 Install dependencies: npm install @reduxjs/toolkit@^2.2.6 @testing-library/jest-dom@^5.17.0 @testing-library/react@^13.4.0 @testing-library/user-event@^13.5.0 bootstrap@^5.3.3 react@^18.3.1 react-dom@^18.3.1 react-redux@^9.1.2 react-scripts@5.0.1 web-vitals@^2.1.4
 

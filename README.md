@@ -30,8 +30,6 @@ Click on a todo item to edit its text.
 Toggle the checkbox to mark a todo item as completed.
 Click the "Delete" button to remove a todo item.
 
-Screenshots
-
 Credits
 Bootstrap for styling components
 React.js and Redux Toolkit for state management
